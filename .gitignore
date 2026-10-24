@@ -1,0 +1,11 @@
+# Environment and secrets
+.env
+.env.*
+!.env.example
+
+# Temporary files
+*.log
+*.tmp
+
+# Local database testing
+test-db.php
